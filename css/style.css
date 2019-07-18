@@ -83,6 +83,7 @@ p {
 
 .l-heading {
     font-size: 40px;
+    line-height: 1.2;
 }
 
 /* Navbar */
@@ -96,7 +97,7 @@ p {
     color: white;
 }
 
-#navbar h1 {
+#navbar .logo {
     float: left;
     padding: 20px;
 }
@@ -146,7 +147,7 @@ p {
 
 /* Home Info */
 #home-info {
-    height: 400px;
+    height: 450px;
 }
 
 #home-info .info-img {
